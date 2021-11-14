@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetics", "Arithmetics\Arithmetics.csproj", "{18C8EB8D-43DB-4158-8A98-BC8028580D34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleConsole", "SampleConsole\SampleConsole.csproj", "{9534B90B-BFB1-4269-A8F9-0CBC358EEC60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18C8EB8D-43DB-4158-8A98-BC8028580D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C8EB8D-43DB-4158-8A98-BC8028580D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C8EB8D-43DB-4158-8A98-BC8028580D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C8EB8D-43DB-4158-8A98-BC8028580D34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9534B90B-BFB1-4269-A8F9-0CBC358EEC60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9534B90B-BFB1-4269-A8F9-0CBC358EEC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9534B90B-BFB1-4269-A8F9-0CBC358EEC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9534B90B-BFB1-4269-A8F9-0CBC358EEC60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B8E76FD-393C-4C58-8D2A-8181B2A37CD3}
+	EndGlobalSection
+EndGlobal
